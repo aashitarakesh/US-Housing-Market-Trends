@@ -1,7 +1,8 @@
 # Byte-compiled / optimized / DLL files
-congig.py
-config.js
+
 __pycache__/
+config.py
+config.js
 *.py[cod]
 *$py.class
 
