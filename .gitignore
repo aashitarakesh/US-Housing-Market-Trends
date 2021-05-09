@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
 
 __pycache__/
-/ETL/config.py
-/static/js/config.js
+ETL/config.py
+static/js/config.js
 *.py[cod]
 *$py.class
 
